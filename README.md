@@ -1,4 +1,4 @@
-# SBQS2024_AutomatedReview
+# SAST2025_AutomatedReview
 
 Esses arquivos fazem parte da pesquisa desenvolvida no artigo Automated review using computer vision: A case study. 
 
