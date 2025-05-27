@@ -1,6 +1,6 @@
 # SAST2025_AutomatedReview
 
-Esses arquivos fazem parte da pesquisa desenvolvida no artigo Automated review using computer vision: A case study. 
+Esses arquivos fazem parte da pesquisa desenvolvida no artigo Application of Computer Vision to image review process in the software development. 
 
 O arquivo time_review_manual contém horários e tempos obtidos a partir dos reviews no Helix Swarm.
 
